@@ -1,3 +1,7 @@
 ﻿<Solution>
+  <Project Path="BlockadeLabsSDK.Runtime.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="BlockadeLabsSDK.Editor.csproj" />
   <Project Path="WebGLInput.csproj" />
+  <Project Path="BlockadeLabsSDK.Tests.csproj" />
 </Solution>
