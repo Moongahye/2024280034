@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/3103/2024280034/Assets/mungahye.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
