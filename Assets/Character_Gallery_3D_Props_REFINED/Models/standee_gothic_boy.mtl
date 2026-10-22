@@ -1,0 +1,24 @@
+# generated
+newmtl standee_tex
+Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.020000 0.020000 0.020000
+d 1.000000
+illum 2
+map_Kd gothic_boy_standee.png
+map_d gothic_boy_standee.png
+
+newmtl base_mat
+Kd 0.130000 0.110000 0.160000
+Ka 0.130000 0.110000 0.160000
+Ks 0.040000 0.040000 0.040000
+d 1.000000
+illum 2
+
+newmtl support_mat
+Kd 0.270000 0.240000 0.300000
+Ka 0.270000 0.240000 0.300000
+Ks 0.040000 0.040000 0.040000
+d 1.000000
+illum 2
+

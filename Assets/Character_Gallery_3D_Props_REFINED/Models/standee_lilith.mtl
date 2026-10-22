@@ -1,0 +1,24 @@
+# generated
+newmtl standee_tex
+Kd 1.000000 1.000000 1.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.020000 0.020000 0.020000
+d 1.000000
+illum 2
+map_Kd lilith_standee.png
+map_d lilith_standee.png
+
+newmtl base_mat
+Kd 0.140000 0.070000 0.110000
+Ka 0.140000 0.070000 0.110000
+Ks 0.040000 0.040000 0.040000
+d 1.000000
+illum 2
+
+newmtl support_mat
+Kd 0.280000 0.120000 0.220000
+Ka 0.280000 0.120000 0.220000
+Ks 0.040000 0.040000 0.040000
+d 1.000000
+illum 2
+
